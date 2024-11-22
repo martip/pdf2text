@@ -1,6 +1,6 @@
 # pdf2text
 
-Dockerized service to extract text from PDF files, using PyPDF.
+Dockerized service to extract text from PDF files, using [pypdf](https://github.com/py-pdf/pypdf).
 
 ## Options
 
